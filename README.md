@@ -1,1 +1,0 @@
-*First directory in my **ALX** school repo.*
